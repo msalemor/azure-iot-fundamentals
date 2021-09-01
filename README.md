@@ -22,6 +22,10 @@
 ### DPS (Deive Provisioning Service)
 - Provisioning at sscale
 
+### Phone as an IoT Device
+
+- [Your phone as an IoT device](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-phone-app-how-to)
+
 ## Protocols
 
 - MQTT
@@ -63,3 +67,6 @@ HTTPS	Use for devices that cannot support other protocols.
 ## Digital Twin
 
 - A json representation of the device that can be used to read and set (desired state) properties to and from the device.
+
+
+## Development
