@@ -1,5 +1,13 @@
 # Azure IoT Fundamentals
 
+## Journey
+
+Architecture | Devices | Gateway | Storage | Analytics | Integration
+:----- | :----: | -----: | -----  | ------ | ------ 
+Review   | MXChip<br/>Pi | IoT Hub  | Warm<br/>Cold | Stream Analytics | PowerBI
+
+
+
 ## Architecture
 
 - Devices
