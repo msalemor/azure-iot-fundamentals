@@ -73,3 +73,18 @@ HTTPS	Use for devices that cannot support other protocols.
 
 
 ## Development
+
+### SDKs
+
+- .Net
+- Java
+- Python
+- C/C++
+
+### Communications
+
+- Device to cloud
+- Cloud to device
+- Messages
+- Methods
+- Digital Twin (desired state)
