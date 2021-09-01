@@ -63,6 +63,9 @@ HTTPS	Use for devices that cannot support other protocols.
 ### Scaling
 ### Device Registration
 #### Certificates
+### IoT Explorer
+
+- [Graphical tool for interactive with devices connected to IoT hub](https://docs.microsoft.com/en-us/azure/iot-fundamentals/howto-use-iot-explorer)
 
 ## Digital Twin
 
