@@ -1,6 +1,26 @@
 # Azure IoT Fundamentals
 
+## Architecture
+
+- Devices
+- Cloud Gateway
+- Device Provisions
+- Stream Processing
+- ML
+- Warm Storage
+- Cold Storage
+- Data Transformation
+- Business process integration
+
 ## Devices
+
+### Physcal tamper-proof
+- TPM
+- Secure boot
+- Intrusion detection and "digital self-destruction"
+
+### DPS (Deive Provisioning Service)
+- Provisioning at sscale
 
 ## Protocols
 
@@ -31,6 +51,11 @@ HTTPS	Use for devices that cannot support other protocols.
 ## IoT Hub
 
 ### Networking
+
+- Public
+- Filtered (Open/Reject IP ranges)
+- Private Endpoint
+
 ### Scaling
 ### Device Registration
 #### Certificates
