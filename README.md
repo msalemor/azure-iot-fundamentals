@@ -1,5 +1,4 @@
-# azure-iot-learn
-Azure IoT Fundamentals
+# Azure IoT Fundamentals
 
 ## Devices
 
