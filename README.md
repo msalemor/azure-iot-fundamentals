@@ -28,7 +28,7 @@ Review   | MXChip<br/>Pi | IoT Hub  | Warm<br/>Cold | Stream Analytics | PowerBI
 - Intrusion detection and "digital self-destruction"
 
 ### DPS (Deive Provisioning Service)
-- Provisioning at sscale
+- Provisioning at scale
 
 ### Phone as an IoT Device
 
@@ -78,7 +78,6 @@ How to choose a protocol:
 
 - A json representation of the device that can be used to read and set (desired state) properties to and from the device.
 
-
 ## Development
 
 ### SDKs
@@ -87,6 +86,8 @@ How to choose a protocol:
 - Java
 - Python
 - C/C++
+- Go
+- Rust
 
 ### Communications
 
