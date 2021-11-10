@@ -53,12 +53,11 @@ Use on field and cloud gateways to take advantage of connection multiplexing acr
 Use for devices that cannot support other protocols.
 - HTTPS
 
-Protocol	When you should choose this protocol
-MQTT
-MQTT over WebSocket	Use on all devices that do not require to connect multiple devices (each with its own per-device credentials) over the same TLS connection.
-AMQP
-AMQP over WebSocket	Use on field and cloud gateways to take advantage of connection multiplexing across devices.
-HTTPS	Use for devices that cannot support other protocols.
+How to choose a protocol:
+
+- MQTT, MQTT over WebSocket:	Use on all devices that do not require to connect multiple devices (each with its own per-device credentials) over the same TLS connection.
+- AMQP, AMQP over WebSocket:	Use on field and cloud gateways to take advantage of connection multiplexing across devices.
+- HTTPS	Use for devices that cannot support other protocols.
 
 ## IoT Hub
 
